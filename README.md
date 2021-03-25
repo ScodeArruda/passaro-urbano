@@ -1,6 +1,6 @@
 # Desenvolvimento do projeto **Passaro Urbano**
 
-![Scode](https://scode.net.br/assets/images/logo-scode.png)
++ addition![Scode](https://scode.net.br/assets/images/logo-scode.png)
 
 O objetivo do projeto é desenvolver um web site de promoções!
 
