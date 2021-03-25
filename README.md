@@ -11,12 +11,8 @@ Ao término do projeto local, estaremos hospedando a aplicação no **[Google Fi
 * **[Angular8.js](https://vuejs.org/)**
 * **[Postman](https://www.getpostman.com/)**
 * **[Firebase](https://console.firebase.google.com)**
-<!-- * **Libs do Node usadas no Projeto**
-  - **[bcryptjs](https://www.npmjs.com/package/bcryptjs)**
-  - **[bcrypt](https://www.npmjs.com/package/bcrypt)**
-  - **[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
-  - **[mongoose](https://www.npmjs.com/package/mongoose)**
-  - **[dotenv](https://www.npmjs.com/package/dotenv)** -->
+* **Libs do Node usadas no Projeto**
+  - **[Reactivex](http://reactivex.io/)**
 
 
 **(documentação em desenvolvimento)**
