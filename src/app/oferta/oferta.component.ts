@@ -26,8 +26,19 @@ export class OfertaComponent implements OnInit {
     this.ofertaService.getOfertaPorId(this.route.snapshot.params['id'])
       .then((oferta: Oferta) => {
         this.oferta = oferta
-        console.log(this.oferta)
+        // console.log(this.oferta)
       })
+
+    //   this.route.params.subscribe(
+    // /* Ficará observando a alteração do id recebido vindo da url,
+    // sem precisar utilizar o snapshot.params['id'] pois nele é 
+    // uma foto, e em subscribe ficará observando a mudança, caso
+    // ocorra erro, a funcao erro será chamada. E, caso
+    // ocorra sucesso, será executada a funcao de sucesso */
+    // (parametro: any) => { console.log(parametro)},
+    // (erro: any) => console.log(erro),
+    // () => console.log('Processamento foi classificado como concluído')
+    // )
   }
 
 }
