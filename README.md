@@ -1,10 +1,8 @@
-# Desenvolvimento do projeto **Passaro Urbano* 
-
-Repositório responsável pelo projeto: **Coding Stuff**.
+# Desenvolvimento do projeto **Passaro Urbano**
 
 O objetivo do projeto é desenvolver um web site de promoções!
 
-Ao término do projeto local, estaremos hospedando a aplicação no **[Google Firebase]()** tanto no lado do server e client-side!
+Ao término do projeto local, estaremos hospedando a aplicação no **[Google Firebase](https://console.firebase.google.com)** tanto no lado do server e client-side!
 
 ## 🚀 Recursos utilizados
 
