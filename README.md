@@ -1,5 +1,7 @@
 # Desenvolvimento do projeto **Passaro Urbano**
 
+![Scode](https://scode.net.br/assets/images/logo-scode.png)
+
 O objetivo do projeto é desenvolver um web site de promoções!
 
 Ao término do projeto local, estaremos hospedando a aplicação no **[Google Firebase](https://console.firebase.google.com)** tanto no lado do server e client-side!
